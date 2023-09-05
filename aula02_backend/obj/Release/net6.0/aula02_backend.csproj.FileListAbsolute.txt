@@ -1,0 +1,14 @@
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\bin\Release\net6.0\aula02_backend.exe
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\bin\Release\net6.0\aula02_backend.deps.json
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\bin\Release\net6.0\aula02_backend.runtimeconfig.json
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\bin\Release\net6.0\aula02_backend.dll
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\bin\Release\net6.0\aula02_backend.pdb
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\obj\Release\net6.0\aula02_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\obj\Release\net6.0\aula02_backend.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\obj\Release\net6.0\aula02_backend.AssemblyInfo.cs
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\obj\Release\net6.0\aula02_backend.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\obj\Release\net6.0\aula02_backend.dll
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\obj\Release\net6.0\refint\aula02_backend.dll
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\obj\Release\net6.0\aula02_backend.pdb
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\obj\Release\net6.0\aula02_backend.genruntimeconfig.cache
+C:\Users\Daniel\Documents\Análise e Desenvolvimento de Sistemas\Desenvolvimento Web - Back End\Aula02\aula02_backend\aula02_backend\obj\Release\net6.0\ref\aula02_backend.dll
